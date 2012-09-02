@@ -25,7 +25,7 @@ Windows: Shift+Ctrl+R
 Credit
 ======
 
-This package was an adaptation of [Hex-to-RGB][2].
+This package was an adaptation of [Hex-to-RGBA][2].
 
 [1]: http://wbond.net/sublime_packages/package_control
-[2]: https://github.com/aroscoe/Hex-to-RGB
+[2]: https://github.com/aroscoe/Hex-to-RGBA
