@@ -1,6 +1,6 @@
 Hex-to-RGB
 ===========
-Sublime Text 2 package for converting CSS hexadecimal colors into RGB.
+Sublime Text 2 package for converting CSS **hexadecimal** colors into **RGB**.
 
 Install
 ============
@@ -11,14 +11,14 @@ Use it
 With the hexadecimal color value selected or the cursor in front of or in the middle of the value you can use either the menu option or keyboard shortcut.
 
 ###Menu option
-The menu option is under the Edit menu as "Convert Hex to RGB".
+The menu option is under the Edit menu as **"Convert Hex to RGB"**.
 
 ###Keyboard shortcut
-Mac: Shift+Cmd+R
+Mac: **Shift+Cmd+R**
 
-Linux: Shift+Ctrl+R
+Linux: **Shift+Ctrl+R**
 
-Windows: Shift+Ctrl+R
+Windows: **Shift+Ctrl+R**
 
 [1]: http://wbond.net/sublime_packages/package_control
 
