@@ -6,7 +6,7 @@ Install
 ============
 Install using [Package Control][1] or download/clone into your Sublime Text 2 package directory.
 
-Useing
+Use it
 ===
 With the hexadecimal color value selected or the cursor in front of or in the middle of the value you can use either the menu option or keyboard shortcut.
 
