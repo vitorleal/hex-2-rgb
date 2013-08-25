@@ -20,5 +20,10 @@ Linux: **Shift+Ctrl+R**
 
 Windows: **Shift+Ctrl+R**
 
-[1]: http://wbond.net/sublime_packages/package_control
+Credit
+======
 
+This package was an adaptation of [Hex-to-RGBA][2].
+
+[1]: http://wbond.net/sublime_packages/package_control
+[2]: https://github.com/aroscoe/Hex-to-RGBA
